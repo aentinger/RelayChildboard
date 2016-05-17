@@ -1,12 +1,15 @@
-LXR_Childboard_Relay
-====================
+LXRobotics P6_3 Relay Childboard
+==============
 
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+![LXRobotics P6_3 Relay Childboard](https://www.lxrobotics.com/wp-content/uploads/mz_af_p6_3_side_small.jpg)
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+## Weitere Informationen / Further Information
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+* **DE:** https://www.lxrobotics.com/produkte/arduino-childboards/relay
+* **EN:** https://www.lxrobotics.com/en/products/arduino-childboards/relay
 
-Weitere Informationen unter:
+## Lizenz / License
+Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
 
-http://www.lxrobotics.com/produkte/arduino-childboards/relay
+* **DE:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+* **EN:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
